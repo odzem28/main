@@ -7,5 +7,5 @@ console.log("Я") console.log("JS");
 5) коли в закоментоване значення вставляється коментар.
 */
 
-console.log("Я")
-console.log("JS")
+console.log("Я");
+console.log("JS");
